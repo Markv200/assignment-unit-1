@@ -1,5 +1,5 @@
 /* Add a background color to the header element */
-.header {
+header {
     background-color:ivory;
     color:palevioletred;
     font-size: 30px;
@@ -22,7 +22,7 @@ ul{
     font-size: 22px;
 }
 /* Add a background color to the footer element */
-.footer {
+footer {
     background-color:ivory;
     font-size: 25px;
 }
